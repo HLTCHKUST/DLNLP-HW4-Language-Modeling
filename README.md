@@ -5,4 +5,8 @@ The goal of this assignment is to perform Language Modeling based on Recurrent N
 
 For this assignment, we are going to use a The Microsoft Research Sentence Completion Challenge Dataset from Sherlock Holmes novels. We already provide a subsets of the original challenge, however if your machine is not powerful enough you can further reduce the number of file. In case you do so, please report the files name used for the training.
 
-You can download the required dataset from this repository which is under ```data``` folder.
+You can download the required dataset by running the command line:
+```
+sh download_data.sh
+```
+Or you can also download the dataset from [Google Drive](https://drive.google.com/open?id=1tvlIDRH22A5udoAAmx-y7Gx_0AoePyBR)
